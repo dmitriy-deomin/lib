@@ -1,0 +1,35 @@
+sudo apt-get install gradle  
+
+
+358240058629577
+
+   ((AutoScaleTextView)layout.findViewById(R.id.text_dialog)).setMovementMethod(new ScrollingMovementMethod());
+
+
+sudo apt-get install wireshark
+
+
+wget http://ftp.de.debian.org/debian/pool/contrib/m/msttcorefonts/ttf-mscorefonts-installer_3.6_all.deb
+
+sudo dpkg -i ttf-mscorefonts-installer_3.6_all.deb
+
+
+
+                <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+                    android:id="@+id/expandableLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:ael_expanded="false"
+                    app:ael_duration="500"
+                    app:ael_interpolator="bounce"
+                    app:ael_orientation="vertical">
+
+                <dmitriy.deomin.kinooctober.libries.TextView_new
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Расписание все"
+                    android:id="@+id/delegat_raspisanie_vse"
+                    android:textSize="10dp"
+                    android:textStyle="bold"/>
+
+                </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
